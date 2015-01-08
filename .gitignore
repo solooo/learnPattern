@@ -1,0 +1,7 @@
+# java pattern ignore
+bin/
+.classpath
+.project
+.*/
+!src/
+!.gitignore
